@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel><item><title><![CDATA[bloque-inicio]]></title><slug>bloque-inicio</slug><value><![CDATA[	&lt;!-- Side column --&gt;
+	&lt;aside class=&quot;right&quot; id=&quot;sidebar&quot;&gt;
+		
+		&lt;img src=&quot;&lt;?php get_site_url(); ?&gt;data/uploads/garantia.png&quot; width=&quot;220&quot;/&gt;
+		&lt;br /&gt;
+		&lt;div style=&quot;width: 100%; text-align:center&quot;&gt;Servicio a domicilio &lt;strong&gt;sin costo&lt;/strong&gt;&lt;/div&gt;
+		&lt;br /&gt;
+
+	&lt;/aside&gt;
+	&lt;!-- end: Side column --&gt;]]></value></item><item><title><![CDATA[bloque-sucursales]]></title><slug>bloque-sucursales</slug><value><![CDATA[	&lt;aside class=&quot;right&quot; id=&quot;sidebar&quot;&gt;
+
+		&lt;div class=&quot;widget wb_dayd_list_widget&quot; id=&quot;daydream_widget_categories-3&quot;&gt;
+                &lt;h4&gt;Sucursales&lt;/h4&gt;		
+		
+		&lt;ul&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;&lt;?php get_site_url(); ?&gt;matrizqro.html&quot;&gt;Matriz Querétaro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;&lt;?php get_site_url(); ?&gt;reformaagraria.html&quot;&gt;Reforma Agraria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;&lt;?php get_site_url(); ?&gt;delaluz.html&quot;&gt;Satélite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;&lt;?php get_site_url(); ?&gt;piedelacuesta.html&quot;&gt;Pie de la cuesta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;&lt;?php get_site_url(); ?&gt;starosa.html&quot;&gt;Santa Rosa Jauregui&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;&lt;?php get_site_url(); ?&gt;matrizsanjuan.html&quot;&gt;Matriz San Juan del Río&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;&lt;?php get_site_url(); ?&gt;panamericana.html&quot;&gt;San Juan del Río Panamericana&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+
+		&lt;/div&gt;
+		
+	&lt;/aside&gt;]]></value></item><item><title><![CDATA[bloques]]></title><slug>bloques</slug><value><![CDATA[	&lt;!-- Side column --&gt;
+	&lt;aside class=&quot;right&quot; id=&quot;sidebar&quot;&gt;
+		
+		&lt;div class=&quot;widget wb_dayd_list_widget&quot; id=&quot;daydream_widget_categories-3&quot;&gt;&lt;h4&gt;Gu&amp;iacute;a del comprador&lt;/h4&gt;					
+	&lt;!-- Sub menu --&gt;
+	&lt;ul id=&quot;dayd_submenu&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; style=&quot;padding-left: 12px;&quot;&gt;Suspensión Convencional &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; style=&quot;padding-left: 12px;&quot;&gt;Suspensión McPherson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; style=&quot;padding-left: 12px;&quot;&gt;Suspensión Multilink&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; style=&quot;padding-left: 12px;&quot;&gt;Ejes paralelos o semiejes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; style=&quot;padding-left: 12px;&quot;&gt;Suspensión de barra de Torsión&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; style=&quot;padding-left: 12px;&quot;&gt;Suspensión de eje rígido&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;!-- end: Sub menu --&gt;
+	
+
+		
+		&lt;/div&gt;
+		
+
+	&lt;/aside&gt;
+	&lt;!-- end: Side column --&gt;]]></value></item><item><title><![CDATA[slide1]]></title><slug>slide1</slug><value><![CDATA[slide1.jpg]]></value></item><item><title><![CDATA[slide2]]></title><slug>slide2</slug><value><![CDATA[slide2.jpg]]></value></item><item><title><![CDATA[slide3]]></title><slug>slide3</slug><value><![CDATA[slide3.jpg]]></value></item><item><title><![CDATA[slide4]]></title><slug>slide4</slug><value><![CDATA[slide4.jpg]]></value></item><item><title><![CDATA[slide5]]></title><slug>slide5</slug><value><![CDATA[slide5.jpg]]></value></item><item><title><![CDATA[slide6]]></title><slug>slide6</slug><value><![CDATA[slide6.jpg]]></value></item><item><title><![CDATA[slide7]]></title><slug>slide7</slug><value><![CDATA[slide7.jpg]]></value></item></channel>
